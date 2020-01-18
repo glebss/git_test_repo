@@ -1,0 +1,17 @@
+commit 49328264561deb6ceb902e3174490934c6b7d260
+Author: glebss <glebka1@yandex.ru>
+Date:   Sat Jan 18 13:25:59 2020 +0300
+
+    add .gitignore
+
+commit 26f7f01df3e4fcefa3ac6c2ae87aa2f825468600
+Author: glebss <glebka1@yandex.ru>
+Date:   Sat Jan 18 13:05:37 2020 +0300
+
+    aaa
+
+commit c0717a780473fb105f86a82a036806c1da2d332f
+Author: glebss <glebka1@yandex.ru>
+Date:   Sat Jan 18 13:00:15 2020 +0300
+
+    first commit
